@@ -4,7 +4,6 @@ test repository
 
 ## First Item
 
-'''
 /* Source code to find ASCII value of a character entered by user */
 
 #include <stdio.h>
@@ -15,7 +14,6 @@ int main(){
     printf("ASCII value of %c = %d",c,c);
     return 0;
 }
-'''
 
 
 ## Second Item
